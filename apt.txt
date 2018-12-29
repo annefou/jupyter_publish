@@ -1,0 +1,10 @@
+texlive-latex-base
+texlive-latex-recommended
+texlive-science
+texlive-latex-extra
+texlive-fonts-recommended
+dvipng
+ghostscript
+latexmk 
+texlive 
+vim

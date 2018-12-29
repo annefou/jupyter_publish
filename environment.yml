@@ -1,0 +1,33 @@
+channels:
+  - conda-forge
+  - pytorch
+  - nordicesmhub
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.6
+  - numpy
+  - xarray
+  - cartopy
+  - matplotlib
+  - netcdf4
+  - geopandas
+  - tqdm
+  - rasterio
+  - ipyleaflet=0.9.2
+  - pytorch
+  - torchvision
+  - scikit-learn
+  - scipy
+  - latexmk
+  - bibtexparser
+  - pandoc
+  - html5lib
+  - ipython_genutils
+  - ipyvolume
+  - ipywidgets
+  - jupyter_latex_envs
+  - jupyter_contrib_nbextensions
+  - nbconvert
+  - nbformat
+  - ipypublish
