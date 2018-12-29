@@ -1,8 +1,17 @@
-# FIXME Lesson title
+# Publication ready scientific reports and presentations with Jupyter notebooks
 
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
+A 1/2 day tutorial for creating publication ready scientific reports and presentations with Jupyter notebooks
 
-FIXME
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+## Subject covered
+
+Combining features of the Jupyter Notebook, WYSIWYG editors and the Latex document preparation system, to provide a workflow for:
+
+- Dynamic editing and visualisation of key document components (text, math, figures, tables, references, citations, etc).
+- Combine document elements with dynamic (and reproducible) data exploration, analysis and visualisation.
+- Supply meta formatting for document and code elements for precise control over the final document layout and typesetting.
+- Output the same source document to different layouts and formats (pdf, html, presentation slides, etc).
 
 ## Contributing
 
@@ -15,7 +24,7 @@ how to write new episodes.
 
 ## Maintainer(s)
 
-* FIXME
+* Anne Fouilloux
 
 ## Authors
 
@@ -24,5 +33,6 @@ A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
 ## Citation
 
 To cite this lesson, please consult with [CITATION](CITATION)
+
 
 [lesson-example]: https://carpentries.github.io/lesson-example
