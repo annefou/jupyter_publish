@@ -1,15 +1,18 @@
 ---
 title: "Introduction"
-teaching: 0
-exercises: 0
+teaching: 30
+exercises: 30
 questions:
-- "Key question (FIXME)"
+- "What is jupyterlab?"
+- "How to use jupyterlab?"
+- "How to start and run simple python jupyter notebooks?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Get familiar with jupyterlab"
+- "Run a simple jupyter notebook with python kernel"
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "jupyterlab"
+- "jupyter notebook"
 ---
-FIXME
 
 {% include links.md %}
 
