@@ -53,7 +53,7 @@ First, make a backup copy of the downloaded .ova file(s). If something goes wron
 Import the VM image into VirtualBox by either starting the downloaded .ova file directly, or by launching VirtualBox and 
 navigating to File → Import Appliance and opening the file.
 
-![Import Appliance](../fig/virtualBoxImport.png)
+![Import Appliance](fig/virtualBoxImport.png)
 
 This will display the Appliance Import Settings window. Click the Import button.
 It may then take several minutes for VirtualBox to import the VM. Once it is done, a new VM will appear in the left pane in 
@@ -61,7 +61,7 @@ the 'powered off' state.
 The VM is now installed.
 
 
-![Resbaz VM](../fig/vitualBoxResbaz.png)
+![Resbaz VM](fig/vitualBoxResbaz.png)
 
 ### Start VM 
 
@@ -77,7 +77,7 @@ A screen showing the defined user on this machine is shown. Click on the *resbaz
 - Open a terminal
 
 
-![open terminal](../fig/openTerminal.png)
+![open terminal](fig/openTerminal.png)
 
 ~~~
 anaconda-navigator
@@ -89,7 +89,7 @@ You should get the `anaconda-navigator` as shown on the figure below:
 - Then select `resbaz` environment:
 
 
-![Select resbaz environment](../fig/VMselectResbaz.png)
+![Select resbaz environment](fig/VMselectResbaz.png)
 
 - Then launch `jupyterlab`
 
