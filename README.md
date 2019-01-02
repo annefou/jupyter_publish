@@ -4,6 +4,8 @@ A 1/2 day tutorial for creating publication ready scientific reports and present
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/annefou/jupyter_publish/master)
+
 ## Subject covered
 
 Combining features of the Jupyter Notebook, WYSIWYG editors and the Latex document preparation system, to provide a workflow for:
