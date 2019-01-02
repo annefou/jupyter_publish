@@ -1,0 +1,10 @@
+#!/bin/bash
+
+pip install jupyterlab_latex
+
+jupyter serverextension enable --sys-prefix jupyterlab_latex
+
+jupyter labextension install @jupyterlab/jupyterlab-drawio jupyterlab/latex jupyterlab/git
+
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
+jupyter serverextension enable --py jupyterlab_git

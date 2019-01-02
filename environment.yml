@@ -1,8 +1,8 @@
+name: resbaz
 channels:
-  - conda-forge
-  - pytorch
   - nordicesmhub
   - bioconda
+  - conda-forge
   - defaults
 dependencies:
   - python=3.6
@@ -14,13 +14,6 @@ dependencies:
   - geopandas
   - tqdm
   - rasterio
-  - ipyleaflet=0.9.2
-  - pytorch
-  - torchvision
-  - scikit-learn
-  - scipy
-  - latexmk
-  - bibtexparser
   - pandoc
   - html5lib
   - ipython_genutils
@@ -30,4 +23,10 @@ dependencies:
   - jupyter_contrib_nbextensions
   - nbconvert
   - nbformat
+  - jupyterlab
+  - nodejs
+  - scikit-image
   - ipypublish
+  - pip:
+      - jupyterlab_latex
+      - jupyterlab-git
