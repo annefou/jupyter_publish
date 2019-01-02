@@ -109,4 +109,61 @@ You are done!
 >
 {: .callout}
 
+
+# Github Account
+
+
+### Go to the GitHub Homepage
+
+> ## Important notice
+> This setup instruction are from [https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/](https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/)
+> and is distributed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution license</a>.
+> The following is a human-readable summary of (and not a substitute for) the <a href="https://creativecommons.org/licenses/by/4.0/legalcode">full legal text of the CC BY 4.0 license</a>.
+{: .callout}
+
+To use GitHub one needs to register for a (free) account. To register for a GitHub account we need to:
+
+1. Open a web browser
+2. Navigate to [github.com](https://github.com)
+
+We should see the the web page below.
+
+**Note**: _If you already have a GitHub account you do __NOT__ need to create a new one. Please skip this step._
+
+![github-homepage-new-user.png](fig/github-homepage-new-user.png)
+
+### To create a GitHub account
+
+- On the GitHub homepage enter:
+
+    - a username
+    - an email address
+    - a password
+
+- Click the green _Sign up for GitHub_ button.
+
+
+An example is shown in the screenshot below.
+
+![github-new-user-sign-up.png](fig/github-new-user-sign-up.png)
+
+We are asked to confirm the email address that we used to sign. Please confirm the email address.
+
+**Select a plan**
+
+We have to choose a plan that we would like to use. We will use the personal (default) plan.
+
+Click on _Continue_.
+
+![github-welcome-step-2.png](fig/github-welcome-step-2.png)
+
+**Completing our signup**
+
+We can select any options we would like (on none).
+
+Click _Submit_ to complete our `Github` account setup.
+
+![github-welcome-step-3.png](fig/github-welcome-step-3.png)
+
+
 {% include links.md %}

@@ -13,6 +13,14 @@ keypoints:
 - "jupyterlab LaTeX extension"
 ---
 
-JupyterLab extension for live editing of LaTeX documents
+We have been using JupyterLab to keep our research work and are now ready to write a scientific paper 
+associated with our computing results and for writing our paper, we will be using [LaTeX](https://www.latex-project.org/).
+
+# JupyterLab extension for live editing of LaTeX documents
+
+# Generate LaTeX from our jupyter notebooks
+
+# Combine our Jupyter notebooks and LaTeX documents 
+
 {% include links.md %}
 
