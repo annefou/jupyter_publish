@@ -182,7 +182,7 @@ the `ipypublish` python package is still under development (beta version avaiabl
 
 Now we can combine our jupyter notebook and our LaTeX document to generate a single publication ready scientific report.
 
-A very simple way to combine them is to merge the pdf generated files:
+A very simple way to combine them is to merge the pdf generated files. Create a new text file and rename it `report_main.tex`:
 
 ~~~
 \documentclass{report}
@@ -204,5 +204,15 @@ A very simple way to combine them is to merge the pdf generated files:
 ~~~
 {: .language-latex}
 
+Then generate the resulting pdf files ("Show LaTeX preview"). 
+
+> ## Add generated files into your Github repository
+> 
+> As before, add report_main.tex and report_main.pdf to your Github
+> repository `research-bazaar-jupyter-2019` using JupyterLab git extension and/or JupyterLab Git Terminal. 
+> 
+{: .challenge}
+	  
+	  
 {% include links.md %}
 
