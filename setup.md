@@ -30,7 +30,7 @@ any problems.
 
 2. **Install the needed VM on your laptop**
 
-   -You will want to download this VM before arriving at the workshop, because it is a large file and it will take too much time to download over the wifi network.
+    **You will want to download this VM before arriving at the workshop, because it is a large file and it will take too much time to download over the wifi network.**
 
    - Download Resbaz Jupyterlab VM [OVA file](https://zenodo.org/record/2530356/files/resbaz2019.ova?download=1) (12.6GB)
 
