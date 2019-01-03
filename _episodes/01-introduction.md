@@ -58,7 +58,7 @@ Follow [setup instructions](../setup.html) and start `jupyterlab` from `anaconda
 > ~~~
 > {: .language-python}
 >
-> - Rename your notebook (give a meaningful name)
+> - Rename your notebook to `example.ipynb`
 > - Add a markdown cell
 >
 > ~~~

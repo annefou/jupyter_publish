@@ -157,7 +157,7 @@ Click on _Continue_.
 
 **Completing our signup**
 
-We can select any options we would like (on none).
+We can select any options we would like (or none).
 
 Click _Submit_ to complete our `Github` account setup.
 
