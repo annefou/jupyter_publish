@@ -24,25 +24,23 @@ any problems.
 
 1. **Install VirtualBox on your laptop**
 
-Download and install the VirtualBox package from this [link](https://www.virtualbox.org/wiki/Downloads).
+   - Download and install the VirtualBox package from this [link](https://www.virtualbox.org/wiki/Downloads).
 
-You can install the latest version or at least version VirtualBox 5.2.
+   - You can install the latest version or at least version VirtualBox 5.2.
 
 2. **Install the needed VM on your laptop**
 
-You will want to download this VM before arriving at the workshop, 
-because it is a large file and it will take too much time to download over the wifi network.
+   -You will want to download this VM before arriving at the workshop, because it is a large file and it will take too much time to download over the wifi network.
 
-- Download Resbaz Jupyterlab VM [OVA file](https://zenodo.org/record/2530356/files/resbaz2019.ova?download=1) (12.6GB)
+   - Download Resbaz Jupyterlab VM [OVA file](https://zenodo.org/record/2530356/files/resbaz2019.ova?download=1) (12.6GB)
 
-This VM contains:
+   - This VM contains:
 
-- [Anaconda with python 3.7](https://www.anaconda.com/download/)
-- [TexLive 2018](https://www.tug.org/texlive/acquire-netinstall.html)
-- [`resbaz` conda environment](https://raw.githubusercontent.com/annefou/jupyter_publish/master/environment.yml) with Jupyterlab 
-  and other python packages we will be using for the workshop.
+       - [Anaconda with python 3.7](https://www.anaconda.com/download/)
+       - [TexLive 2018](https://www.tug.org/texlive/acquire-netinstall.html)
+       - [`resbaz` conda environment](https://raw.githubusercontent.com/annefou/jupyter_publish/master/environment.yml) with Jupyterlab and other python packages we will be using for the workshop.
 
-Please note that for the workshop, we will be using python 3.6 from `resbaz` environment. Everything has already been set up in the VM.
+    Please note that for the workshop, we will be using python 3.6 from `resbaz` environment. Everything has already been set up in the VM.
 
 This section will include directions on how to start up, access, and use these virtual machines on your laptop.
 
