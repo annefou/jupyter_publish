@@ -12,7 +12,7 @@ operating system.
 
 Using a virtual machine ensures that you will be running with the same configuration as the instructor. It also relieves you 
 from having to setup your jupyterlab instance and installing prerequisites. With the Resbaz jupyterlab provided VMs you will
-also receive support from the instructors and you fellow attendees. 
+also receive support from the instructors and your fellow attendees. 
 
 # Getting ready for the workshop
 
