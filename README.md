@@ -6,6 +6,8 @@ A 1/2 day tutorial for creating publication ready scientific reports and present
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/annefou/jupyter_publish/master)
 
+[![DOI](https://zenodo.org/badge/163517733.svg)](https://zenodo.org/badge/latestdoi/163517733)
+
 ## Subject covered
 
 Combining features of the Jupyter Notebook, WYSIWYG editors and the Latex document preparation system, to provide a workflow for:
