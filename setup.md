@@ -95,6 +95,8 @@ You are done!
 
 > ## Troubleshooting
 >
+> ### VirtualBox does not show 34-bits images
+>
 > If VirtualBox is only showing 32-bit versions in the Version list make sure:
 >
 > - You have an x64 CPU installed. (Optimally, a 64-bit OS should also be installed to receive acceptable virtualization performance.)
@@ -104,6 +106,10 @@ You are done!
 > - Hyper-V (or any other form of bare-metal hypervisor) is not installed 
 >
 > For more information follow [this link](https://www.tactig.com/enable-intel-vt-x-amd-virtualization-pc-vmware-virtualbox/).
+>
+> ### VirtualBox 6.0 Installation problems on Fedora 29/28, CentOS/RHEL 7.5/6.10
+> 
+> - Follow instructions given [here](https://www.if-not-true-then-false.com/2010/install-virtualbox-with-yum-on-fedora-centos-red-hat-rhel/)
 >
 {: .callout}
 
