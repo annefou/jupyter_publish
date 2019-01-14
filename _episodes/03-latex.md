@@ -177,7 +177,12 @@ the `ipypublish` python package is still under development (beta version avaiabl
 > repository `research-bazaar-jupyter-2019` using JupyterLab git extension and/or JupyterLab Git Terminal. 
 > 
 {: .challenge}
-	  
+
+## Additional ipypublish example
+
+In this short tutorial, all the functionalities of ipypublish are not demonstrated. However, feel free to browse the [following example](https://github.com/annefou/ipypublish_example).
+
+
 # Combine our Jupyter notebooks and LaTeX documents 
 
 Now we can combine our jupyter notebook and our LaTeX document to generate a single publication ready scientific report.
